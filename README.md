@@ -40,8 +40,8 @@ GUILD_ID: ID do servidor onde o bot irá operar.
 Após configurar o arquivo .env, você pode iniciar o bot com o comando:
   node index.js
 
-Como usar os comandos
-Após adicionar o bot ao seu servidor do Discord, você pode usar os seguintes comandos:
+👾 Como usar
+Depois de adicionar o bot ao seu servidor, digite os comandos diretamente no chat do Discord.
 
 /proximo_jogo: Exibe informações sobre o próximo jogo da FURIA no CS.
 /ranking: Mostra o ranking atual da FURIA.
