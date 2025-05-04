@@ -1,42 +1,27 @@
-<<<<<<< HEAD
-# CS-FURIA-BOT
-Bot do discord para ajudar o usuário a ter acesso ás informações da FURIA de forma facilitada.
-=======
-# CS-BOT-FURIA
->>>>>>> 818b8c2963ec7071c94eb7182772f66a7ce43fde
-============
-Bot CS FURIA
-Este é um bot do Discord para acompanhar o time de CS:GO da FURIA, com funcionalidades como informações sobre o próximo jogo, classificação, jogadores, e muito mais.
+# CS-BOT-FURIA 🎯
 
-Funcionalidades
-/proximo_jogo: Exibe informações sobre o próximo jogo da FURIA.
+Bot do Discord para ajudar os fãs a acompanharem tudo sobre a FURIA no CS:GO de forma rápida e divertida.
 
-/ranking: Mostra o ranking atualizado da FURIA.
+## ✨ Funcionalidades
 
-/jogadores: Exibe a lista de jogadores da FURIA.
+- `/proximo_jogo`: Exibe informações sobre o próximo jogo da FURIA.
+- `/ranking`: Mostra o ranking atualizado da FURIA.
+- `/jogadores`: Exibe a lista de jogadores.
+- `/noticias`: Retorna as últimas notícias.
+- `/histórico_partidas`: Exibe o histórico recente da equipe.
+- `/palpite`: Permite que o usuário dê seu palpite.
+- `/eu_na_furia`: Uma roleta divertida para descobrir com quem você se parece na equipe.
 
-/noticias: Retorna as últimas notícias relacionadas à FURIA.
+## 🚀 Pré-requisitos
 
-/histórico_partidas: Exibe o histórico de partidas da FURIA.
+- [Node.js](https://nodejs.org/)
+- [Git](https://git-scm.com/)
 
-/palpite: Permite que o usuário faça um palpite sobre o próximo jogo da FURIA.
+## 🛠 Instalação
 
-/eu_na_furia: Exibe uma roleta divertida para ver quem o usuário seria no time da FURIA.
-
-Pré-requisitos
-Antes de começar, você precisará instalar alguns pré-requisitos:
-
-Node.js: Você pode instalar o Node.js em https://nodejs.org/.
-
-Git: Para clonar o repositório e versionar o código, é necessário ter o Git instalado. Baixe o Git aqui.
-
-Instalação
-Siga estas etapas para configurar o ambiente localmente:
-
-1. Clonar o repositório
-Clone o repositório do GitHub para o seu computador:
-  git clone https://github.com/Sanviictor/CS-BOT-FURIA.git
-  cd CS-BOT-FURIA
+1. Clone o repositório:
+   git clone https://github.com/Sanviictor/CS-BOT-FURIA.git
+   cd CS-BOT-FURIA
 
 2. Instalar dependências
 Após clonar o repositório, instale as dependências necessárias utilizando o comando npm:
